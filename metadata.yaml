@@ -1,0 +1,38 @@
+_repo: Elsie-in-the-South_32103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Cousin Martha
+    - Farquharson, Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: A doctor prescribes a winter's rest in the South for Chester so he can
+  fully recover from the injuries he incurred while protecting Lucilla. After Max's
+  graduation from the Naval Academy, Grandmother Elsie and the Raymonds travel on
+  the Dolphin to Florida and on to Viamede, Elsie's beloved Louisiana home. Max and
+  Evelyn become engaged, and Bob Johnson and Sydney Dinsmore wed. When Evelyn and
+  Lulu catch the bridal bouquet together at the wedding, the family wonders who will
+  be the next to wed.
+gutenberg_issued: '2010-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louisiana -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: Elsie in the South
+url: http://www.gutenberg.org/ebooks/32103
